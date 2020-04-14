@@ -1,0 +1,35 @@
+/*Selects all elements */
+* {
+    color: rgb(69,69,69);
+    text-align: center;
+}
+
+/* Layout Containers */
+.container {
+ background-color: rgb(250, 250, 250);
+}
+
+.wrapper {
+    margin: 20px;
+    padding: 20px;
+}
+
+/*Navigation bar */
+.buttons {
+    background-color: white;
+    padding: 10px;
+    margin: 5px 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a:link {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+/*Images*/
