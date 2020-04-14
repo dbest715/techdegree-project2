@@ -32,4 +32,23 @@ a:link {
     text-transform: uppercase;
 }
 
-/*Images*/
+/*Media Queries*/
+
+@media (max-width:1020px) {
+    body{
+        background: royalblue;
+    }
+}
+
+@media (max-width: 768px) {
+    body{
+        background: black;
+    }
+}
+
+@media (max-width: 320px) {
+    body{
+        background: red;
+    }
+}
+
